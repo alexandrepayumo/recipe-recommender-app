@@ -1,0 +1,42 @@
+#left {
+    /*background-image: url("/emptyplate2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    background-position: right;*/
+    background-color: var(--pink);
+    height: 150vh;
+    /* !!!!!!!!!!!!!!!!!!!!!!!!!! */
+    /*the height above needs to change based on how many ingredients have been inputted */
+    /*do we dynamically have to set this when the user clicks a button?? probably not?*/
+}
+
+#all {
+    height: 100%;
+}
+
+#ingredientsInput {
+    width: 50%;
+    margin: auto;
+    margin-bottom: 18px;
+}
+
+#title, #description {
+    margin-left: 10px;
+}
+
+#card {
+    width: 150px;
+    height: 255px;
+    margin: 18px;
+    padding: 10px;
+    /*filter: drop-shadow(2px 2px 5px #000000);*/
+    /* not too sure about the drop shadow */
+}
+
+#right {
+    min-height: 100vh;
+}
+
+#title, #right {
+    margin-top: 65px;
+}

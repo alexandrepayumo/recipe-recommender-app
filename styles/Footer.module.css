@@ -1,0 +1,30 @@
+#footer {
+    background-color: var(--light-pink);
+    margin-bottom: 0;
+    padding: 0;
+    height: 160px;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+}
+
+.link {
+    margin: 0 10px;
+}
+
+.hrefLink {
+    text-decoration: none;
+    /*color: var(--pink);*/
+    color: black;
+}
+
+.linkText {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+#footerTitle {
+    padding: 10px;
+}
