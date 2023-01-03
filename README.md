@@ -8,6 +8,8 @@ This is a recipe recommendation app for those who don't know what to cook with t
 
 Can view the project by cloning the repository and running the project on localhost, or by going to the following link: https://recipe-recommender-app.vercel.app/
 
+Make sure to run "npm install" after you cloned the repository to make sure all the dependencies are added locally.
+
 ## Problems
 
 Note: This website can only make a total of 150 API calls per day so if this limit is exceeded, the website will not work
