@@ -6,7 +6,7 @@ This is a recipe recommendation app for those who don't know what to cook with t
 
 ## How to use
 
-Can view the project by cloning the repository and running the project on localhost, or by going to the following link: url
+Can view the project by cloning the repository and running the project on localhost, or by going to the following link: https://recipe-recommender-app.vercel.app/
 
 ## Problems
 
